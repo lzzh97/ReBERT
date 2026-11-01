@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Pipeline outputs (data, checkpoints, results)
+work/
+
+# OS files
+.DS_Store
+Thumbs.db
